@@ -1,0 +1,19 @@
+{
+    "name": "rufel/test-api",
+    "description": "Oackage for test Api",
+    "type": "library",
+    "license": "Apache-2.4",
+    "autoload": {
+        "psr-4": {
+            "Rufel\\TestApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rufelliy",
+            "email": "rufelliys@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
