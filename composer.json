@@ -1,0 +1,16 @@
+{
+    "name": "rufel/test-api",
+    "description": "Oackage for test Api",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Rufel\\TestApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rufelliy",
+            "email": "rufelliys@gmail.com"
+        }
+    ]
+}
