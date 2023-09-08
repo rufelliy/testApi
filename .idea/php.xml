@@ -20,7 +20,7 @@
   </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration beautifier_path="$PROJECT_DIR$/vendor/bin/phpcbf" tool_path="$PROJECT_DIR$/vendor/bin/phpcs" />
+      <PhpCSConfiguration beautifier_path="$PROJECT_DIR$/../../modules/php/PHP_8.0/PEAR/PHP/CodeSniffer/bin/phpcbf" tool_path="$PROJECT_DIR$/../../modules/php/PHP_8.0/PEAR/PHP/CodeSniffer/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpIncludePathManager">

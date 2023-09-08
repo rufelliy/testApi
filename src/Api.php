@@ -50,7 +50,7 @@ class Api
             'order_currency' => 'USD',
             'order_description' => 'Product',
             'card_number' => '4111111111111111',
-            'card_exp_month' => '02',
+            'card_exp_month' => '01',
             'card_exp_year' => '2025',
             'card_cvv2' => '000',
             'payer_first_name' => 'John',
